@@ -13,3 +13,6 @@ application.
 3) [AWS DynamoDB](https://aws.amazon.com/dynamodb/)
 4) [AWS S3](https://aws.amazon.com/s3/)
 5) [Vue.js](https://vuejs.org/)
+
+## License - 3-Clause BSD License
+See [license.txt](LICENSE.txt) for more details.
